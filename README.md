@@ -1,1 +1,2 @@
-# Papier-kamie-no-yce
+# Papier kamnień nożyce
+Prosty gra papier kamień nożyce 
